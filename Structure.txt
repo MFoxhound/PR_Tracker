@@ -1,0 +1,31 @@
+struct PR Key:
+	pr number
+	status "Done, closed, pre aprove, Rejected,.............
+	
+	submit date
+	purpose
+	requesting department
+	Clasification "Electrical, hydrolical, mech,.....
+	number of items
+	type "dameged sapres, inventory stock,, tools, consumabels,.....
+
+
+	TAGS "PET, IML, Manifacturing, ......	
+	Requesting person
+	Remarks
+	
+	
+
+Struct PR items:
+	PR Number
+	Item code
+	Item Describtion
+	Item definition
+	UOM
+	Quantity
+	status "Done, canceld, replaced, xx of quantity,.......
+	Clasification
+	Tags
+	
+	Remarks
+s	
